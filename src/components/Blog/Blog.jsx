@@ -21,7 +21,7 @@ function Blog() {
               </h1>
               <p className="text-lg opacity-75">
                 Dicta sunt explicabo.Nano emin ipsam voluptatem quia voluptas
-                sit aspernatur aut odit aut fugit sed quia{" "}
+                sit aspernatur {" "}
               </p>
               <div className="flex mt-[10px] opacity-75 ">
                 <p className="flex items-center gap-x-[6px]">
